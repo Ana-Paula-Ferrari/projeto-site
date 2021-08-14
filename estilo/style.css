@@ -4,12 +4,12 @@
 }
 
 body{
-    background-color: rgba(0, 0, 0, 0.719);
+    background-color: rgba(38, 3, 134, 0.479);
 }
 
 main{
     background-color: white;
-    width: 500px;
+    width: 600px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
@@ -18,4 +18,25 @@ main{
 h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 2em;
+    color: #0817FF;
+}
+
+h2 {
+  background-color: rgba(100, 148, 237, 0.568);
+  font: 1.5em;
+}
+
+img.lado {
+    float: right;
+}
+
+a{
+    text-decoration: none;
+    color: rgba(0, 0, 139, 0.904);
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+    
 }
