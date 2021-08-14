@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: rgba(141, 42, 96, 0.582);
+    background-color: rgba(0, 0, 0, 0.719);
 }
 
 main{
@@ -13,4 +13,9 @@ main{
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2em;
 }
